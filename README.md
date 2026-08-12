@@ -2,9 +2,9 @@
 
 Great technology should feel effortless. I focus on the seams where models meet products and infrastructure meets experience – building platforms and developer tools that make powerful AI capabilities accessible without sacrificing depth.
 
-Currently an AI Product Manager and builder at **Booz Allen Hamilton**, leading an enterprise AI platform used by 1,200+ developers. Before that, I founded and ran **J. Stark**, a vertically integrated bag and leather goods brand, and worked as an engineer at Fuzzco and Blackbaud.
+Currently an AI Product Manager and builder at [Booz Allen Hamilton](https://www.boozallen.com), leading an enterprise AI platform used by 1,200+ developers. Before that, I founded and ran [J. Stark](https://starkmade.com), a vertically integrated bag and leather goods brand, and worked as an engineer at [Fuzzco](https://fuzzco.com) and [Blackbaud](https://blackbaud.com).
 
-**Focus areas:** AI product management · MLOps · developer tools & platforms · LLM-powered features · enterprise AI infrastructure · full-stack development
+**Focus areas:** AI product management · MLOps · developer tools & platforms · LLM-powered features · enterprise AI infrastructure · workflow automation
 
 ---
 
