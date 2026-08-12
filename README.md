@@ -4,11 +4,11 @@ Great technology should feel effortless. I focus on the seams where models meet 
 
 Currently an AI Product Manager and builder at [Booz Allen Hamilton](https://www.boozallen.com), leading an enterprise AI platform used by 1,200+ developers. Before that, I founded and ran [J. Stark](https://starkmade.com), a vertically integrated bag and leather goods brand, and worked as an engineer at [Fuzzco](https://fuzzco.com) and [Blackbaud](https://blackbaud.com).
 
-**Focus areas:** AI product management · MLOps · developer tools & platforms · LLM-powered features · enterprise AI infrastructure · workflow automation
+**Focus Areas:** AI Product Management · MLOps · Developer Tools & Platforms · LLM-powered Features · Enterprise AI Infrastructure · Workflow Automation
 
 ---
 
-**Some things I've built**
+**Some Things I've Built**
 
 - [Hardwood Lab](https://hardwoodlab.vercel.app/) — NBA season comparison tool with era-adjusted metrics
 - [Quick Letter](https://quick-letter.vercel.app/) — Agentic research assistant for newsletter creators
