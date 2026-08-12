@@ -17,6 +17,6 @@ Currently an AI Product Manager and builder at [Booz Allen Hamilton](https://www
 
 ---
 
-[erikholmberg.com](https://erikholmberg.com) · [linkedin](https://www.linkedin.com/in/erikholmberg100) · e@erikholmberg.com
+[erikholmberg.com](https://erikholmberg.com) · [linkedin](https://www.linkedin.com/in/erikholmberg100) · [e@erikholmberg.com](mailto:e@erikholmberg.com)
 
 *Stay curious.*
