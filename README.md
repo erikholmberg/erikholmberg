@@ -8,7 +8,7 @@ Currently an AI Product Manager and builder at [Booz Allen Hamilton](https://www
 
 ---
 
-**Some Things I've Built**
+**Some Projects I've Built**
 
 - [Hardwood Lab](https://hardwoodlab.vercel.app/) — NBA season comparison tool with era-adjusted metrics
 - [Quick Letter](https://quick-letter.vercel.app/) — Agentic research assistant for newsletter creators
