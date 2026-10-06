@@ -8,11 +8,16 @@ Currently an AI Product Manager and builder at [Booz Allen Hamilton](https://www
 
 ---
 
-**Some Projects I've Built**
+**Featured: [AI PM Lab](https://aipmlab.io)**
+
+<a href="https://aipmlab.io"><img src="assets/aipmlab.png" alt="AI PM Lab — interactive lessons that build AI product sense" width="600"></a>
+
+Interactive lessons that build AI product sense for product managers.
+
+**Other Projects**
 
 - [Quick Letter](https://quick-letter.vercel.app/) — Agentic research assistant for newsletter creators
 - [80808](https://80808.vercel.app/) — Browser-based drum machine sequencer
-- [Hardwood Lab](https://hardwoodlab.vercel.app/) — NBA season comparison tool with era-adjusted metrics
 - [Cartly](https://cartly.erikholmberg.com/) — WordPress e-commerce plugin with Stripe integration
 
 ---
