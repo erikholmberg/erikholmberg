@@ -10,9 +10,7 @@ Currently an AI Product Manager and builder at [Booz Allen Hamilton](https://www
 
 **Featured: [AI PM Lab](https://aipmlab.io)**
 
-<a href="https://aipmlab.io"><img src="assets/aipmlab.png" alt="AI PM Lab — interactive lessons that build AI product sense" width="600"></a>
-
-Interactive lessons that build AI product sense for product managers.
+<a href="https://aipmlab.io"><img src="assets/aipmlab.png" alt="AI PM Lab — interactive lessons that build AI product sense"></a>
 
 **Other Projects**
 
