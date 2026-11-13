@@ -15,6 +15,7 @@ Currently an AI Product Manager and builder at [Booz Allen Hamilton](https://www
 **Other Projects**
 
 - [Quick Letter](https://quick-letter.vercel.app/) — Agentic research assistant for newsletter creators
+- [Blockitecture](https://blockitecture.vercel.app/) — Famous landmarks rebuilt from toy blocks, explorable in 3D
 - [80808](https://80808.vercel.app/) — Browser-based drum machine sequencer
 - [Cartly](https://cartly.erikholmberg.com/) — WordPress e-commerce plugin with Stripe integration
 
